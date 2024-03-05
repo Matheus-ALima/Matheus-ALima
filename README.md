@@ -3,9 +3,11 @@ Oi pessoal 😊
 Sou apaixonado por tecnologia desde muito cedo, e essa paixão me levou a seguir a carreira de desenvolvedor. Atualmente, atuo como desenvolvedor Full Stack e venho trabalhando com linguagens como Java, JavaScript, Go, Python e muitas outras.
 Estou animado para compartilhar minha jornada e conhecimento com vocês, e espero um dia poder contribuir para o mundo da tecnologia de maneira significativa. 
 ##
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-ALima&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-ALima&layout=compact&icons=true&theme=transparent )
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-ALima&layout=compact&icons=true&theme=transparent)
+<div>
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Lima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lima-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
