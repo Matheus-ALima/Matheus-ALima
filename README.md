@@ -1,6 +1,5 @@
 ### Wellcome Devs, I'm Matheus Lima 👋
-Oi pessoal 😊
-Sou apaixonado por tecnologia desde muito cedo, e essa paixão me levou a seguir a carreira de desenvolvedor. Atualmente, atuo como desenvolvedor Full Stack e venho trabalhando com linguagens como Java, JavaScript, Go, Python e muitas outras.
+Oi pessoal 😊<br>Sou apaixonado por tecnologia desde muito cedo, e essa paixão me levou a seguir a carreira de desenvolvedor. Atualmente, atuo como desenvolvedor Full Stack e venho trabalhando com linguagens como Java, JavaScript, Go, Python e muitas outras.
 Estou animado para compartilhar minha jornada e conhecimento com vocês, e espero um dia poder contribuir para o mundo da tecnologia de maneira significativa. 
 ##
 <div align="center">
